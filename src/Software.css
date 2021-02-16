@@ -1,0 +1,12 @@
+.software_page .card{
+    max-width: 30rem;
+    padding-left: 5%;
+    margin-bottom: 5%;
+}
+
+.card-img-top{
+    width: 15%;
+    margin: 5% 0;
+    position: relative;
+    left: 150px;
+}

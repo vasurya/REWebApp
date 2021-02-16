@@ -1,0 +1,20 @@
+.contact_us_header {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  margin-top: 8%;
+  margin-bottom: 5%;
+}
+
+.map {
+  position: relative;
+  bottom: 7%;
+ 
+}
+
+.contact_content {
+  padding: 30px;
+  margin-bottom: 15%;
+  /* background-color: rgb(252, 144, 3); */
+
+}
+

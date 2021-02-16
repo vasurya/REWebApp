@@ -1,0 +1,30 @@
+#brand_footer{
+    width: 50%;
+}
+
+.footer{
+    padding-top: 3%;
+    background-color: rgb(252, 152, 3);
+
+    font-family: 'Roboto Mono', monospace;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    color: black;
+}
+
+
+
+.footer p{
+    margin: 0;
+}
+
+.footer .Contacts li{
+   
+    font-size: medium;
+    margin-bottom: 5%;
+}

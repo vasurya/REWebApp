@@ -1,0 +1,28 @@
+#about_page_title {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+  margin-top: 8%;
+  margin-bottom: 3%;
+}
+
+.vision {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  position: relative;
+  left: 40px;
+  top: 30px;
+}
+
+.vision_list {
+  margin-top: 10%;
+  margin-bottom: 6%;
+  /* line-height: 2rem; */
+}
+
+.vision_list li{
+  margin-bottom: 2%;
+}
+
+.about_page {
+  margin-bottom: 5rem;
+}

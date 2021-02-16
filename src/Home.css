@@ -1,0 +1,53 @@
+.home {
+  font-family: "Roboto Mono", monospace;
+}
+
+#brand_name {
+  width: 70%;
+  position: relative;
+  left: 37px;
+}
+
+.home h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 4rem;
+  opacity: 0.7;
+  position: relative;
+  left: 55px;
+  bottom: 2rem;
+  font-weight: 900;
+  line-height: 6rem;
+}
+
+#uno_section {
+  margin-top: 2%;
+  margin-bottom: 1%;
+}
+
+#dos_section {
+  position: relative;
+  left: 0rem;
+  margin-bottom: 5%;
+  background-color: rgb(252, 144, 3);
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.about_us_home {
+  font-size: 1.5rem;
+  font-weight: 900;
+  opacity: 0.7s;
+}
+
+@media screen and (max-width: 1008px) {
+  .home h1 {
+    left: 45px;
+    padding-top: 5%;
+    font-size: 2rem;
+    line-height: 3rem;
+  }
+
+  .about_us_home {
+    font-size: 1rem;
+  }
+}

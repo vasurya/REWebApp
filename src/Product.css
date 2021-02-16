@@ -1,0 +1,16 @@
+.products {
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
+
+.products .btn {
+  margin-bottom: 5%;
+}
+.hardware_item {
+  width: fit-content;
+}
+
+.products h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+}

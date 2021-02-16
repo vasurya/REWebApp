@@ -1,0 +1,15 @@
+.carousel {
+  margin-bottom: 15%;
+}
+
+.our_clients {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  margin-top: 5%;
+  margin-bottom: 7%;
+}
+
+.carousel img {
+  height: 100px;
+  width: 200px;
+}

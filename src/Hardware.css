@@ -1,0 +1,20 @@
+.hardware_row {
+  margin: 5%;
+}
+.hardware_item {
+  position: relative;
+    top: 25px;
+    right: 25px;
+}
+
+.hw_item_title{
+    padding-top: 5%;
+    position: relative;
+    left: 25px;
+}
+
+.hw_item_list{
+    margin-top: 7%;
+    line-height: 30px;
+    padding-bottom: 5%;
+}
