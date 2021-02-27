@@ -1,1 +1,1 @@
-React JS Web Application for a company
+React JS Web Application for Retail Experts
